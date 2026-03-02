@@ -1,0 +1,7 @@
+{
+  "name": "DAWK",
+  "description": "A sleek, portable digital audio workstation (DAW) with live recording, imports, audio editing, and real-time FX.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
